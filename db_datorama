@@ -1,5 +1,5 @@
 {
-    "dashboards": {
+   "dashboards": {
         "Onsite/Offsite": "Z0FBQUFBQm9icW0xbHBwTVljNUtiMl9od0F0V0hvbko5QXVEeWxQNVhCVjNnRVFNMW1MckFWT1BOQXFxN0o0d0FaVXhkMm5nMGJoNzdVM05rSUkwakFkX28yVjVZRGQyVTNEZTlvbGdVRmFLaS1wbHFQS3ZmZ0YxeEZjYnJYY3AwSll0LU5ZQi1ycHRHMGtFWGY2VzVndU5zWWZRcHB4Q2tYNi02Qlk2Y3h1alIwUHk0ZTJDOXVkMzF2MFBFM0FCX2prakpHeUhkMF90NzVCSUdwdy1MZm1tcnRqTXJsaHlOQT09",
         "Display Onsite Attribution": "Z0FBQUFBQm9icW0xWm1fYzF5NjRvWjF5QmNfcTJLQ2ZZSEltcnZqN2xKTThZWmIyZjhlTjR0Qy1vTDBnMWZDVy0yMl9RMEEyenFyUXJqbnpJU1NGMTRMYkIxclVKakppTHRtQkpEdnpQMDl6ZWRtMVRqWEVyY0tQWGY5djNQOTlhWV9MWDdXanQxYm9QUVk1amZ2YUt3WkQtNS1WZXJxc2JSdk9mWi1CVGZKc0FPMGdaRlJ0Rm82bktQM1k1Mk50Y3pQN05iUWl5S0pVSjNEYXJxTjJxMEZFbUxrTERtZjdhdz09",
         "Social Commerce": "Z0FBQUFBQm9icW0xUUZJOUM5OWxiRWNyME93SGZISnE3akFKblBKckNUOTBnYzEwaDFsMmtudlFKcmNLdjFXdHlzN1Frb0JLTWtweHNjalVxZ2R5bnJBRHdLX2FWdzN0OURxU3h0RjRudU5DVldPLWxIX0NlSUJzTFFkYVd3WUVLdDV1eTBmNzI3SDBBS0oweHZiREFDR3hJNkFFbEhuVzdUUzZwTW00eFMtTXlmLVlScy1WczZrRXo2ZnF6aG9fSzVhY1BVZEZyUlYtRC1GWTRuR2ZZRlprQXdOWUp4WllGZz09",
@@ -14,231 +14,44 @@
         "Medios Tradicionales - Mockup": "Z0FBQUFBQm9icW0xRVEtdXprWnJTcDQ3cVRheWFIeGZkQzgzc1YxQlk0dVdUYXgyZ3JDNDFBcHpjYVY2T0luRkxrRzJkcDlkM3FwNlU5dXBsSlBxV1pNV3pxa2dnR29Bek9qSlpIMzhWYWZMY082NVhFOXBFOTJrc0NHOGNRSjFoVVM4bHRnZHdaRE1GQzBDT19JUmlQU0lWZ1h0aEp2a01UZE9adm83V0lEME5WOVlrSDI3Y29KUEwxNTNteTJDOW0wV0FSSXNUMm80QXU3a084dVEyV29yQ1VoUGlrd0dWZz09",
         "Medios RTMT - Mockup": "Z0FBQUFBQm9icW0xdXpUZTVaX0NvVllqU0xua2YzY1JGcjhKQW5pSjB2akxJeG84QkUxbkFncHpRdGhzbl9tZE4xWkxUNVhyS2JGelFQRGpubWY4cm9IamM0LWRRaUo3MVQ0M3hRYmJDRUc0ZHdGQ3c2OTR4cnhLaUVIekVxNmVfSGljVnI2QU9vUDBVQWtSdEd3YjNFOEpWN1BiZkJER2cteDJXektxc1NzNmZ4WWdLZkF1bVc0cXRDTDhfUllqekxsMWNfcFNLdG5JUWsyU2t5Q2l1UFF3RlhxUVRkeGdhdz09"
     },
-    "authorized_users": [],
+    "viewer_users": [
+        "m0b0xkx",
+        "l0p08ai", 
+        "a0r0xe9",
+        "j0r14n8"
+    ],
+    "analyst_users": [
+        "ejemplo_analyst"
+    ],
     "admin_users": [
-        "r0m0oov",
-        "o0a01sf",
         "m0g0tiz"
     ],
-    "version": "1.1.0",
-    "last_updated": "2025-07-09 11:41:08",
+    "version": "1.1.1",
+    "last_updated": "2025-07-09 12:05:00",
     "require_corporate_network": false,
     "changelog": [
         {
-            "version": "1.0.0",
-            "date": "2024-05-21",
-            "author": "Administrador",
-            "changes": [
-                "Implementación inicial de configuración externa",
-                "Migración de dashboards existentes al nuevo formato",
-                "Inclusión de todos los usuarios autorizados"
-            ]
-        },
-        {
-            "version": "1.0.2",
-            "date": "2025-05-22",
+            "version": "1.1.1",
+            "date": "2025-07-09",
             "author": "m0g0tiz",
             "changes": [
-                "Control de cambios"
-            ]
-        },
-        {
-            "version": "1.0.3",
-            "date": "2025-05-22",
-            "author": "m0g0tiz",
-            "changes": [
-                "Implementación de cifrado AES-256 para URLs",
-                "Soporte para conexión desde cualquier red",
-                "Mejoras en seguridad de configuración"
+                "Corregido error de sintaxis JSON",
+                "Usuario m0g0tiz configurado como administrador",
+                "Estructura JSON validada y limpia"
             ]
         },
         {
             "version": "1.1.0",
-            "date": "2025-07-08",
-            "author": "m0g0tiz",
+            "date": "2025-01-09",
+            "author": "Sistema",
             "changes": [
-                "Reestructuración del sistema de permisos a 3 niveles",
-                "Implementación de roles: viewer_users, analyst_users, admin_users",
-                "Control granular de acceso a tickets y administración",
-                "Migración de usuarios existentes a nueva estructura de roles"
+                "Implementación de cifrado AES-256",
+                "Sistema de roles de 3 niveles",
+                "Integración con sistema de tickets"
             ]
         }
     ],
     "using_local_config": false,
     "encrypted": true,
-    "viewer_users": [
-        "m0b0xkx",
-        "l0p08ai",
-        "a0r0xe9",
-        "j0r14n8",
-        "a0m1lge",
-        "e0a03sb",
-        "m0c1296",
-        "m0v03hl",
-        "e0m0ghx",
-        "c0h0hmm",
-        "misaman",
-        "a0l0840",
-        "g0g08i7",
-        "c0b0ugp",
-        "m0a0l2h",
-        "m0v0abj",
-        "e0b0d5a",
-        "a0c0qoh",
-        "d0f00hu",
-        "tbd",
-        "a0m1ehi",
-        "r0c0i8p",
-        "d0g06ci",
-        "a0g0v74",
-        "a0s1c58",
-        "v0s04sr",
-        "mivaras",
-        "mfpere3",
-        "mmgar13",
-        "r0c0k7y",
-        "ggg000d",
-        "y0z08nw",
-        "m0c0m39",
-        "l0h0ihr",
-        "met0050",
-        "f0c06p0",
-        "a0g09an",
-        "bbogdan",
-        "s0c0mo0",
-        "Mdcanaa",
-        "j0f0daq",
-        "j0c1l9u",
-        "z0j024m",
-        "mitrej1",
-        "h0v01t4",
-        "a0r0o4n",
-        "l0j06xz",
-        "s0p0ilp",
-        "l0r0fcc",
-        "m0r0rph",
-        "y0j02hb",
-        "l0g07pv",
-        "p0h069w",
-        "A0o07td",
-        "l0p09ga",
-        "mvcolin",
-        "l0i01aj",
-        "mciorih",
-        "y0v0178",
-        "mmpmac1",
-        "c0a04zm",
-        "m0m1215",
-        "mvelazc",
-        "m0g0zf7",
-        "g0c0bpm",
-        "maurib1",
-        "m0o09z4",
-        "m0s13f5",
-        "jpg005w",
-        "rrt0006",
-        "ddi0002",
-        "m0c04p1",
-        "g0h05nl",
-        "a0v08lm",
-        "j0b1khj",
-        "llf000x",
-        "i0m08ot",
-        "a0g0vwh",
-        "mgguerr",
-        "e0g0exp",
-        "a0r0rxy",
-        "m0r0w40",
-        "e0g0dtf",
-        "m0r0svd",
-        "k0p0bne",
-        "a0h0pzk",
-        "a0v0ev4",
-        "a0g0m47",
-        "m0p08wp",
-        "e0b0dwq",
-        "s0l0hse",
-        "m0m1bnp",
-        "e0c0fsj",
-        "r0c08ac",
-        "e0m0nz3",
-        "l0e051u",
-        "j0g10tm",
-        "j0r10zd",
-        "k0o041n",
-        "a0r11tw",
-        "z0t027e",
-        "j0m0p3m",
-        "j0h1g36",
-        "a0g0uyc",
-        "aai000e",
-        "h0g00n3",
-        "a0e0cea",
-        "c0m14wz",
-        "j0r0t8f",
-        "s0g0nft",
-        "d0a0ga6",
-        "g0b08v7",
-        "d0a0awq",
-        "p0c088v",
-        "d0b0xb0",
-        "kdg004k",
-        "m0g0bec",
-        "c0r0mav",
-        "a0m1gmp",
-        "d0g0nfo",
-        "a0s1nf2",
-        "prueba",
-        "f0r062c",
-        "j0g1bww",
-        "d0b0btf",
-        "c0m0ii2",
-        "a0s0jgi",
-        "l0c0irg",
-        "j0s0wgk",
-        "n0r08wv",
-        "a0b0mj4",
-        "r0l0byn",
-        "o0d01kl",
-        "g0r0a7j",
-        "a0l09tq",        
-    ],
-    "analyst_users": [
-        "e0h0e6p"
-    ],
-    "config_url": "",
-    "remote_config_enabled": true,
-    "auto_update_check": true,
-    "auto_update_interval": 24,
-    "notes": "Configuración con cifrado AES-256 para URLs y sistema de permisos de 3 niveles. VIEWER: Solo dashboards. ANALYST: Dashboards + Tickets. ADMIN: Todo habilitado.",
-    "encryption_version": "1.0",
-    "permission_system": {
-        "version": "2.0",
-        "levels": {
-            "viewer": {
-                "description": "Solo acceso a visualización de dashboards",
-                "permissions": {
-                    "dashboards": true,
-                    "tickets": false,
-                    "administration": false
-                }
-            },
-            "analyst": {
-                "description": "Acceso a dashboards y sistema de tickets",
-                "permissions": {
-                    "dashboards": true,
-                    "tickets": true,
-                    "administration": false
-                }
-            },
-            "admin": {
-                "description": "Acceso completo a todas las funcionalidades",
-                "permissions": {
-                    "dashboards": true,
-                    "tickets": true,
-                    "administration": true
-                }
-            }
-        }
-    }
+    "encryption_version": "1.0"
 }
