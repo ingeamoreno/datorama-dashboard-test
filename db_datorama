@@ -1,19 +1,70 @@
 {
     "dashboards": {
-        "Onsite/Offsite": "Z0FBQUFBQm9aV3ZjZl84UWN0WVl4UXJ6WEtXSk84eE5sc1ptN2ZfTEVTNUQ5dHRpQmVOSFFCVktFZlpocURvbktPR3F2T3Z6V0EwT1NfWGhrSDZVYUhwdFhHbVlBZlg2T2xKOUtQVDVTOXRpLTVKRklwVWNjRkNuSXRUZVFfSnNxRVpBbHJwMVkzSDU0V2VZcHRYRjB6aTN0bjVOQTRKS2ZjS1ExYzFOSnJwUXdJeFppM2FRR1BBTF9SWVdTRVA4TmVYV0JpejhOaGR3MVJvc0tRd281dlRCYlJzMlVUZTFaZz09",
-        "Display Onsite Attribution": "Z0FBQUFBQm9aV3ZjZHVLRkV1QUhMVkpwd08wZUZrNmdMOVdEaXF4NVFNQnlsUGhYVE1jM1pfZXBNWS1QUFZ6dFZhN2dIYmgyYVRpdnItbWwwNlQwY0ZHMlZwTkZTeER5YU01SU1zc2RqWURfemZFMHpxQVBaVTRZdHRzYzE3S28wWFBxT2lvMmNCbFdBNkhiNndJZUoydjM2TXY5cjNQOFlGTFdsTUZsUi0ycE1NR2EzWVJDOVhwZHk2cElPcm5SWVhpek1tU2tWVlRNVFZmRFZETDhqUm94X3pQM2RqVTNCZz09",
-        "Social Commerce": "Z0FBQUFBQm9aV3ZjeWlLQmtTd2hTYkVZejExRVRkUno2S3Z2TkJpY3dfVGY3cTR2U1pjVVpHX09xc0NwdEJESWRoS0pwQWJNYzJhbU45SWZBV1B2Z2ZySXU0Tkhtc3l1NWc2ZjhRY0tWc3dGT19abnFkc2tJWVVYdkJCaURiT0VnZDdNbTRadHZtSkNpZVljYXp5OUxpYWcweTFXRmhGaEJfc1Y0ZC1YdnZjOE45WXNWcUlhTXBLTnEyRnhmSl9HenMwdUZpbThQVDZnYUNKYWJwUWN0UnBmalh1ZzBkdTl2dz09",
-        "Sponsored Products (Manage)": "Z0FBQUFBQm9aV3ZjcGJWYi1BLUpyMnR5U0h3Y2FiQUhEME4zOEFtTUVKNjRudG1zTmFOMFdfTDNvbTFfeV9pZWg1Wi0xejlzeU1iVU5uVHJod2Fld3MtRjZYUkV1OFhseExBdEdLLU9BNTZRam1GUG84X1dUSXVGZXUzVDNqLUV6elQyZ1g1clQ3ank0c1ZKb0xrNXY0NUVwSEhxZ2F5V0ZVbFBTa3FVOHpaQkswbGxLTEpkbGk4OUlWc2prcnlHa1dwU0xBWGltVGlsMnF5S2t1WUVMZGtYVXVzTmY2dlM4Zz09",
-        "Sponsored Brands/Video (Manage)": "Z0FBQUFBQm9aV3ZjVXF1eUljTm92cUtXWThXLXhfSFNQcGNRNDB2eHN4U2Z0RUNZeU9Eb1g1MWtjdWxfeEVOamtzN1I5dm1tdHczMVQzTHpkV3hWMGtONE1WQnNCR3FCZnJ4M0lFNHN6UUhWRF95Y0FncFNNN3NMZ25BTm43OTNILWhBam5yYnBtdWxpNlAzLWV6UGJrRDctTVFxaWJjOE5hZml0aXBfRDdvTUJnYzV6Nzl4SFh6VzNYcjRQQmM3Mko4elViOThEd3VwalNrRjFxYVhDa29QTzhSTXJoYmhvUT09",
-        "Sponsored Products (Self Service)": "Z0FBQUFBQm9aV3ZjN3U4MGs2aTB2OWtEQ0lzeGp2T01sd1B4WHpGdk9PT2ZfOWpUUEwwTEl5T3hfRXlMZjBKa1BVSm5ac3RrUnJLMmxJMm9XdlJ1OGtMeXU5ZVE0UHItQWxxS25odWNybzh0QlI3WmVPbXNQQXFrY3hHMTl1bGJ0TE51Y1FJZndvV0lwY1BIZmw0dDZmUTVTS2ZWMThSMmluSktLZ0pyY3M0RURDcmdub0dXVWQ5TDk0NTU0a1REY09DcXloOTlmaWdGTHg4WE1BRG8wSmhMVEo1eE1GR3o5Zz09",
-        "DSP": "Z0FBQUFBQm9aV3ZjQ0pPNGNQV0gtT1k1ak5RZmJDeWFJRExsajNNVDFGNXF3M0Nld0RFRmZYMUZqNG5Xb2ptaWRCSk1ucHEtVEVJX25BeWJDSkdiOGNQMGxZUXFEVGRiX2x1Z0dzWUs3cldnb2FzSnBLSDB4czV5aWF2ZTdsZG50STBfQjNRcDkxXzY2QnFsc0huU1BxTTgya2VwM042QXNJd3BHNVFBZDVsanNCWGxHVUNWbk1wbnQ1TFVjT0M2YUtWbUpFa1U3SWU5ZXhVMEZ3NXhoZmhlTUV5T2Rqbk40dz09",
-        "Tótem": "Z0FBQUFBQm9aV3ZjWXYzSUh6T0Y0YkZqN1M1QnBOUXVQdFI4ZGZybTZaUHhZRXhBNmtZeGJEM3E5MFBTWGQ2U3VYODF1TTcxQUY0UTJ5WlVqZFUteWZlNlZhbC1KQWxoWXBac3lIaWxUSHNkb0xfLUU0R2JaaDczRktBdksxbUdSVnFab2ZOVDNiVWdheEM4ZnlKN3cwVkJmRUx4cHVfNTBJTzhyQXY2alpFd3pmTFhzSjdra2dvWHRMUW9GUEFTN1FMVURacldFWEdUeGtDNU1iRkp0UFZuSGxuSXI4TjAyUT09",
-        "Dubai": "Z0FBQUFBQm9aV3ZjTi12WUlYMmNGSTJobFFiRTR0ejlOSkZYMG5VRmU3SWszZkxORkJyNTU3UUZVZmg3NlVSUFl6RlZuNG8ydTlMeDd5bXRwV1dHMkM0bmtRbXE4MkNfYVdCSG5yT2VzQTZOYl9yYVItUlUxYnEyc2F3bVZWYnBXWlB2b0N6Tlg4YjNvN193Sjhqa3pSdmRVNE9za0FmRDVnTHNPaVY0SWQzb0ZpZ2w1azVGOHk0bFNia1dQUTNqTUJXN2NpallyMDJvSUNaOHk4NVdJdVNHLURjQUZYWDFGQT09",
-        "Cabeceras digitales": "Z0FBQUFBQm9aV3ZjdzNGNVo5VWd4WEtyQllIUTM3aEJlNTc3OGsxaWlLa01JaFFKbkJVM0Vjc3JHQkU5N01Ca0U4aXlRcklxZ1FYeG96VHplbUs0LUh3WFBael9SNUtsYzhTbmowdTc5YzhpdzFpVXBGTGxLX3g0V0N4ZzhaVXRhNzREWk1FVF8xbmN0VFBOUFM0MU9YQkJVLUhmMEs0alFXaWlpZ0E2ODdJcWw0cVBkenZqeHNTbEpLSXl3UmZkTDBaZWdOSkhTZUlKclN5MXhFb1YzQ0RNVnBlN1F5ekdGQT09",
-        "Ventas Ecomm": "Z0FBQUFBQm9aV3ZjX1VqdnRSN2dOajViSFRTSWxpVC1mTTlxa0ZDZmNwWUNsaEI5bDJMcjNtQXlnbS0xQzlkS3pIalF4Qm1MX1NySkQwSlE4aGFkelNQYV9LSkRhakMta2VGaXJZWFRJZ1VLN2dRREdVZHhNSnNrcHVpSTFaOXFGX2pMd2lab1Z6UnRRb3VuRzZCUGpCdHJ2TmhYS2o3Vm9LQk5BaXplYlN0Wld3SnV5Y3FzR21LUW5zWHBjd0I1T1l0cl9NQmptMUlkXzZFVWM0aFFvQ21QQ0haWl9uY3gyQT09",
-        "Medios Tradicionales - Mockup": "Z0FBQUFBQm9aV3ZjTFc2VmdWTE02bjZmUDJsYVFPTGs5SnJRZXE4VWhrLTlvRmduYlQyQnhQb2JvbHpCQ3BEMVVINjhVUGR2TDctMGVKTEtMU1pVQXZIQllKSGwyVnNfMGlLN0RSX2FtdVE3Wm93VW05Y0RTQlVPaVVYc3cycUxqRk1JTlkxOEdOSGZ5TDY2NVVlU3g2RXRueWhUcG1wenp2cjNhTkRVclhEWDlHTWdieEg4RkZ1UHlrWWtsdFo1ODh4dnJfSFJIdi1JUF83NGZDSDJFbGJPM1dIUkQ5NFg1UT09",
-        "Medios RTMT - Mockup": "Z0FBQUFBQm9aV3ZjcEJqQTVlSUxRMHdDWlVFdzV2VTJoVzY5REVnclpCRF9IeUVVX21JVXk0NlNLWjdZdDVQR0hHbXBEMlVySVpqb2YxNkRfWU52dWRNWmV3cktEUzY5NjItM29TS2NBdGNNOWdiTnJaN3JQQ05Tb0V4QUYwSG9ncjJUU21LQnZsTDEzTnNFdksyQmEyMmprclg2cmtfMW9adlA1eEVKblpJbS1pdUV0QVFyMGpMS3drQnlrajhuM3R6SUNabUJsbzhDeHZSOUxuM19rc0xqYVRVT21SSVVCQT09"
+        "Onsite/Offsite": "Z0FBQUFBQm9icGRlWF9tU0paN2toNkRnMXZoYzRsMVc3cUkwZWR5Yk1FMXNUYzFaLWZYM2wxbWR4SkhXWFZBZ3pNS29oOXhuNUFqekU2Y2xXYW85OXhOZGlmbXNPTkl6S3BGd09DdnVfelUwZUpkbXVmZjlpTTBrQ0pfMTJ0MHlKWVBLLV8yWUNCVHJQRWQ2blpKRUJMcEY5SFl5Tzh4ZXBVSHNRaWM4Mkcya3JzRXpPOXdQNGZVSXBJQkRZWFUySDZqUzBNVjlfOUQ0b1ZQajdOX1hWY19ReVlLaDZnNWhlQT09",
+        "Display Onsite Attribution": "Z0FBQUFBQm9icGRlNWRmbHducF9Cd3FfbUZjMXBUanVxVU93eF9VUV9nSzRlS2h6ay1CS1lHNXZJNnpSaHRoTk0xZmtBaXFzTzBybmJXdVpOVG51WW8tV2RZdFE4X0dGSlE2VEZDNFh2VllWMjc4Z1EzVS1oa0hHMi15WThwUGctWGZmSXhLUnc3MVhmUWRNWGh0Sk1zNE5EZ1plX2ludGVRdExaWkxFOVRZNzA2NlRPN1huaWNzNHdldjR4eEN6R1k4bE05cDlzTksxNHRpeU1ybkEyTXpHc1BUVF9sbmpMUT09",
+        "Social Commerce": "Z0FBQUFBQm9icGRlR19wVWxnZ3VtU0hSRktlaVV5UzdLUnhhMDByRWxZQWhGeW5ja0tVT1QzZWJUbHZkR2IzcjBESnlTU0RvUGVaLUZSVGdPUXNFNDFyTUtzeHhkeFNibG5vdXZJT1luM180Vm8zcEpRb3k0bmx0dmF5ZDljaFJoUnFXRFpJR3JKSHMtRm00UVNLUDhYZEVNdmEyRWZ4aWNaZUN1eHdPM0trNElVaUYwdmJsMFNVbzYyY25WLVE1RDViemo5d21DSmd0X2FQZkR1cWtGRUlUT213eTJpX1BuUT09",
+        "Sponsored Products (Manage)": "Z0FBQUFBQm9icGRldGRpVWJxOFN0WHQ1T3RkTkZ0eFFJdHdUVFZiMTFPSnRrTk92OGdqNVZINUkyTHMtYzVwci1pcFkyQU5aY3dsZXF4Vlg3aEZlZTFsRDZwT1NFR01sU2xLZlVyYjNxT0czRFdxT3ZfV3lUMHVHMkFpWkhhNUpVRFNPdlE5dzVneGV3VnJYdll0SExFUUF0b0xXNmFaTTlvT2FON1JET0V1LXczRmJJdXRsZHRJamZPamtnRFZHSWFTTzlKNlRiNmt0WHc4NlZmTTBlbUx5dDd5LWZ0ODFrZz09",
+        "Sponsored Brands/Video (Manage)": "Z0FBQUFBQm9icGRlYVBra2hNREZFaDRWT2hNbUhqMUwwTWZQZl9fV3lGTl8td014eE0wendham1iVVdNSkRlY0lXT0Q5TndVSTY3aEI1dklvZDk5U1pTbC1kR0p1dmc3ZkdwLTRXZ1k5X2otei14WUR0V0hDMEVvUG1JRDlzNUdXcEtMM3VYenNDMUNIb2dROFFlZFgtOGl2VkxiT1NDSkczdzhOb1B1aXk2QUpKMDdmWXkzWWZyejgxcXJqUFc1VzJFSDM4bzRxdUdTWmFOdEgyNWQweUEtYmgza1dkNFlEdz09",
+        "Sponsored Products (Self Service)": "Z0FBQUFBQm9icGRlaXZHOGRKNDExTUU3UTJFNVdMT2w1M1BYV1Q1emwtN3JpZGVfUGVqN2pVVDdjbExrcTNMSVlzZno1RU0zdk1mYndNam5LTlhSeXh4bWRtdjZfcmxjMXpWRjhJblNUSjMya05mY2szN2RxQVBnSmNzSm1JSWhPeGYwMDhjVWthNmwyVWdfSzV1V21iTEdwN1B4MS1DNHJvNmlRSWJTTW9EMU94Y1ZUWTNxblYzRXRJMWdFRFpNX045ajVpLUZYYl84OVVCQ0VhMFJHazktR2ZIX3MwOWlyQT09",
+        "DSP": "Z0FBQUFBQm9icGRlTk1xaUpqcUFVZi1wR3lDZjM0Q0lxalZjWV9PRmdrSnBvM2VpbHZsR3BzeXNMUFB6TE91a19kNkd6Ym9GQWJsbWpKUGt1bUZVdVNmN2pIU1RtaHZEUjI0NDBidHVZcVlUQ1dWLUtnRnRoWkVrN2IycFdYaUdSSjB0aURPVG12Qy1OelpqVEJJTXVXR09Hckp2TlBualpvTlUwUGV4d1FrcmRiREhyeFdjbGJqcUo5MGlRNmI1MzNCZlNMRkI3THZRRThEUkplak82SUZGVEdHXzBnMmNSZz09",
+        "Tótem": "Z0FBQUFBQm9icGRlWVljcEFTOGZzOUIwZXd1ekVEcjB4RWxxUnJYVk9peTRtUGhRaVNRaE0tZlR5YXdmMEV2VlI0clQ1eVp5ZjNmT25XalJDQ2ZpSi1HWmt2NDE0Tmt6bFdxMlFrUlFkVTYxOGk5c3lmMXVRcnhrWWJkYmt0MTJueHJBaHJsZ2U3SFlsbW5mWlRLaVlQZzBRUmlZd3J4Zk5aWGV1d2VDNkFBVnRwWFNvbHJKN2FlclJzOVB6b2FEQU5VVU4wU0hQeUxGaVRjOVFPTDJ0WEFFQzV5M0dlSWZkZz09",
+        "Dubai": "Z0FBQUFBQm9icGRlRFVmUWNjcEJydmlLcjB2dXhlb3FmVTFNdkU5VjNWelVTbHQ4dTdTVUtRUDVSME15eWxNVDhvQVRhWUtxak91Y0tTZkdIUmlqLV85SW1qXzVIbkJqWGk0NDE0ZUxGMVVBLWo0YVZBM21nYlFGR01NaElhSm9ldzA4aWx1Wnl5bFNBVUVEMVhUSjlfa3dMVHdhWUo2RHZ6R181MVQwd29sWFFiT3RLQmtTNE5zd0p6MmN0UDZTTzBFOTkyVW5YUlA0WlBqdGpfV3BzNHR1YThUeThHY1B4Zz09",
+        "Cabeceras digitales": "Z0FBQUFBQm9icGRld2xGdkVZUC1QbG9Ba0dld3NHcVNtRDhjejRJTHZxTWI0alQ1dGVEdWs1bmY0OTFjX2JLd0o0dEQ3QTcwcl9peXAtVDd3SnZnc3VlaGRPazZjclgzUnUyeDVIQkxid3dHLXVVTWlHNjQ1NFFBdmp1d3FUbHdOUjQ5VUpaVTNhQ3lxSXVHSE54X21UbVVqQ2U0eUNhcWRDWXQ0UEhtdXk5ZHZMVU5mVzBtdzhvVExQaFo4am1GUC1JS0V5TXN6azkyaFlsRUxtTUVOOWxEUVBKXzNtYVMxUT09",
+        "Ventas Ecomm": "Z0FBQUFBQm9icGRldG9zUm1Sb091Q0lQNFZiQ19KN2tGeWlRc3QyY1MwbXpyQTEtUm5ya0JFNzlHWnNYd1BDcHpTbmViX2dpY01HT3RESkhON2pyckRQaXg0RGxMSDl5RmlGbVBxNVFqTWNsb01OalpnNUVoaXVnUUtldk1fSVY1VXdlV25lTUdTcmxZOHB4ZFJKdXpQQ3dkdEtzTzJGa21kZ09DdmRrc2sxcFowSmtsUkluWmcybFE4YU1sa0JPR2RFRWszWlhfSXVnamZyMGZ1Z0lfdjlkQzJTNjZnNnZYZz09",
+        "Medios Tradicionales - Mockup": "Z0FBQUFBQm9icGRlS01FeV9HRk1FcFhEamtYT3YxV3YzbFR2YjhjeU1BdFRrRDhLRW5FanVKelliYko5T2hmTldqNzZqV05BYTFydzBJcFhxV3BvYmxYLUVpR0hTeF9vUE45bUFxdVJXbVN6dlFHVzBJZFF1TW1GSG1JTjQ1c1YyTW8tMUZFNzR0cnliVnZCRzZ6RlpUSVdoSk1mTDN4NTFPbEw2X1NUSlZZTERQMWR2Y3lRRVJwTlVPNWxjcEk2TnlBU2xPNC1NcTFlT3MxS2ljcDdPQ2hJbFFwQXdmX2Z6UT09",
+        "Medios RTMT - Mockup": "Z0FBQUFBQm9icGRlX2IxQzBOcUZQTTE1bVRINWRvR0VMaU1na0JJVUdfbTVhMGFKbFJ1RWwtLWJkNGZOSTJWeFh2VjFjNDlON2kwanlleFBKU2czczhsWVd3ZHBIU0NZZURNcm5EdkQ5UEpnNUdPUXF6MDFOckwxakZKdDZSMTdyeHgyNGI4c2YxUnh2SDdVU05veHRUazljM1JNMGRRUHBYODI3TEE0cFhMSlFldzdjZXV3UFZ2NktDam02RXREcVNUNjBYYjFWdGQxcTBLdnpxS25BQ1VhOWhZaEhDcG1nUT09"
     },
+    "authorized_users": [],
+    "admin_users": [
+        "m0g0tiz",
+        "r0m0oov"
+    ],
+    "version": "1.1.0",
+    "last_updated": "2025-07-09 10:20:40",
+    "require_corporate_network": false,
+    "changelog": [
+        {
+            "version": "1.0.0",
+            "date": "2024-05-21",
+            "author": "Administrador",
+            "changes": [
+                "Implementación inicial de configuración externa",
+                "Migración de dashboards existentes al nuevo formato",
+                "Inclusión de todos los usuarios autorizados"
+            ]
+        },
+        {
+            "version": "1.0.2",
+            "date": "2025-05-22",
+            "author": "m0g0tiz",
+            "changes": [
+                "Control de cambios"
+            ]
+        },
+        {
+            "version": "1.0.3",
+            "date": "2025-05-22",
+            "author": "m0g0tiz",
+            "changes": [
+                "Implementación de cifrado AES-256 para URLs",
+                "Soporte para conexión desde cualquier red",
+                "Mejoras en seguridad de configuración"
+            ]
+        },
+        {
+            "version": "1.1.0",
+            "date": "2025-07-08",
+            "author": "m0g0tiz",
+            "changes": [
+                "Reestructuración del sistema de permisos a 3 niveles",
+                "Implementación de roles: viewer_users, analyst_users, admin_users",
+                "Control granular de acceso a tickets y administración",
+                "Migración de usuarios existentes a nueva estructura de roles"
+            ]
+        }
+    ],
+    "using_local_config": false,
+    "encrypted": true,
     "viewer_users": [
         "m0b0xkx",
         "l0p08ai",
@@ -152,59 +203,9 @@
         "a0l09tq"
     ],
     "analyst_users": [
-        "o0a01sf",
-        "e0h0e6p"
+        "e0h0e6p",
+        "o0a01sf"
     ],
-    "admin_users": [
-        "m0g0tiz",
-        "r0m0oov"
-    ],
-    "version": "1.1.0",
-    "last_updated": "2025-07-08 16:00:00",
-    "require_corporate_network": false,
-    "changelog": [
-        {
-            "version": "1.0.0",
-            "date": "2024-05-21",
-            "author": "Administrador",
-            "changes": [
-                "Implementación inicial de configuración externa",
-                "Migración de dashboards existentes al nuevo formato",
-                "Inclusión de todos los usuarios autorizados"
-            ]
-        },
-        {
-            "version": "1.0.2",
-            "date": "2025-05-22",
-            "author": "m0g0tiz",
-            "changes": [
-                "Control de cambios"
-            ]
-        },
-        {
-            "version": "1.0.3",
-            "date": "2025-05-22",
-            "author": "m0g0tiz",
-            "changes": [
-                "Implementación de cifrado AES-256 para URLs",
-                "Soporte para conexión desde cualquier red",
-                "Mejoras en seguridad de configuración"
-            ]
-        },
-        {
-            "version": "1.1.0",
-            "date": "2025-07-08",
-            "author": "m0g0tiz",
-            "changes": [
-                "Reestructuración del sistema de permisos a 3 niveles",
-                "Implementación de roles: viewer_users, analyst_users, admin_users",
-                "Control granular de acceso a tickets y administración",
-                "Migración de usuarios existentes a nueva estructura de roles"
-            ]
-        }
-    ],
-    "using_local_config": false,
-    "encrypted": true,
     "config_url": "",
     "remote_config_enabled": true,
     "auto_update_check": true,
