@@ -22,19 +22,20 @@
         "j0r14n8"
     ],
     "analyst_users": [
-        "ejemplo_analyst",
+        "ejemplo_analyst"
+       
+        
+    ],
+    "admin_users": [
+        "m0g0tiz",
+        "r0m0oov",
         "a0g0v74",
         "r0c0k7y",
         "j0r14n8",
         "e0b0d5a",
         "D0r0p21",
         "a0c0qoh",
-        "e0a03sb",
-        
-    ],
-    "admin_users": [
-        "m0g0tiz",
-        "r0m0oov"
+        "e0a03sb"
         
     ],
     "version": "1.1.1",
