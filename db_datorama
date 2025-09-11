@@ -22,8 +22,8 @@
         "j0r14n8"
     ],
     "analyst_users": [
-        "ejemplo_analyst",
-         "r0m0oov"       
+        "ejemplo_analyst"
+                
         
     ],
     "admin_users": [
@@ -34,7 +34,8 @@
         "e0b0d5a",
         "D0r0p21",
         "a0c0qoh",
-        "e0a03sb"
+        "e0a03sb",
+        "r0m0oov"
         
     ],
     "version": "1.1.1",
